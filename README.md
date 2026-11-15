@@ -22,8 +22,8 @@ Bucaramanga, Colombia · ORCID [`0000-0001-7239-3497`](https://orcid.org/0000-00
 
 | Repository | Domain | License | Live / Docs |
 | :--- | :--- | :--- | :--- |
-| [**`holom-core`**](https://github.com/dudbilopr/holom-core) | Clean-room Python & PyTorch GPU digital holography library + numerical audits of legacy MATLAB scripts | `Apache-2.0` | [Docs (MkDocs)](https://dudbilopr.github.io/holom-core/) · [Release v0.3.0](https://github.com/dudbilopr/holom-core/releases/tag/v0.3.0) |
-| [**`hololab-10easy`**](https://github.com/dudbilopr/hololab-10easy) | **HoloLab10.easy** — Interactive 3D WebGL/Three.js Digital Twin & Virtual Laboratory for Digital Holography | `CC BY-NC-SA 4.0` | [Live Simulator](https://dudbilopr.github.io/hololab-10easy/) |
+| [**`holom-core`**](https://github.com/dudbilopr/holom-core) | Clean-room Python & PyTorch GPU digital holography library + numerical audits of legacy MATLAB scripts | `Apache-2.0` | [Docs (MkDocs)](https://dudbilopr.github.io/holom-core/) · [DOI `10.5281/zenodo.24255654`](https://doi.org/10.5281/zenodo.24255654) · [Release v0.3.0](https://github.com/dudbilopr/holom-core/releases/tag/v0.3.0) |
+| [**`hololab-10easy`**](https://github.com/dudbilopr/hololab-10easy) | **HoloLab10.easy** — Interactive 3D WebGL/Three.js Digital Twin & Virtual Laboratory for Digital Holography | `CC BY-NC-SA 4.0` | [Live Simulator](https://dudbilopr.github.io/hololab-10easy/) · [DOI `10.5281/zenodo.24255658`](https://doi.org/10.5281/zenodo.24255658) |
 | [**`Quantum-SLM`**](https://github.com/dudbilopr/Quantum-SLM) | Spatial Light Modulator (SLM) research & photonic state control tools | — | [Repository](https://github.com/dudbilopr/Quantum-SLM) |
 | [**`FIMEBOT`**](https://github.com/dudbilopr/FIMEBOT) | Collaborative academic platform with AI and learning analytics (TypeScript) | — | [Repository](https://github.com/dudbilopr/FIMEBOT) |
 | [**`Electro10.Easy`**](https://github.com/dudbilopr/Electro10.Easy) | Interactive Electromagnetism portal & simulators for Data Science / Engineering | — | [Repository](https://github.com/dudbilopr/Electro10.Easy) |
