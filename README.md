@@ -18,7 +18,7 @@ Bucaramanga, Colombia · ORCID [`0000-0001-7239-3497`](https://orcid.org/0000-00
 
 ---
 
-### Featured Repositories
+### Featured Repositories · [Ecosystem Map](https://github.com/dudbilopr/dudbilopr/blob/main/MAPA_ECOSISTEMA.md)
 
 | Repository | Domain | License | Live / Docs |
 | :--- | :--- | :--- | :--- |
